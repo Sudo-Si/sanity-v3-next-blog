@@ -15,6 +15,7 @@ function Banner() {
              <br/>
               Thank you for visiting and we 
              hope you will continue to follow our blog.</p>
+             <br />
     </div>
   )
 }
