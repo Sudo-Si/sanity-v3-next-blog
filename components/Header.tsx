@@ -4,7 +4,7 @@ import {FaGithubSquare} from "react-icons/fa"
 import {FaLinkedin} from "react-icons/fa"
 import {FaInstagramSquare} from "react-icons/fa"
 import {FaArrowRight} from "react-icons/fa"
-
+// TODO Adjust nav buttons 
 function Header() {
   return (
     <header className="flex items-center justify-between space-x-2 font-bold px-10 py-1 my-0">
