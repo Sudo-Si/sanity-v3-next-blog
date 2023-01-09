@@ -26,5 +26,11 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-
+<!-- Sanity manage -->
 https://www.sanity.io/manage/personal/project/1ilgq7jk
+
+<!-- DOCS -->
+https://www.npmjs.com/package/next-sanity
+
+<!-- Repo -->
+https://github.com/Sudo-Si/sanity-v3-next-blog
